@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  src: url(../fonts/Saira_Extra_Condensed/SairaExtraCondensed-Regular.ttf); }
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url(../fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf); }
+@font-face {
+  font-family: 'Dosis';
+  src: url(../fonts/Dosis/Dosis-Regular.ttf); }
+body {
+  margin: 0;
+  padding: 0; }
+
+header {
+  background-image: url(../images/display.jpg);
+  height: 100vh;
+  background-size: cover; }
+  header nav {
+    background-color: #ffffffcc; }
+  header a {
+    padding: 20px 10px;
+    text-transform: uppercase;
+    text-decoration: none !important;
+    color: #000000; }
+
+.navbar-brand {
+  margin-right: 32rem !important; }
+
+/*# sourceMappingURL=main.css.map */

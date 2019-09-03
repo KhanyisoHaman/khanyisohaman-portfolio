@@ -1,0 +1,27 @@
+// Base - Here this is where I style my web page but here I only  style my element tag eg h1, img etc.
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url(../images/display.jpg);
+    height: 100vh;
+    background-size: cover;
+
+    nav {
+        background-color: $secondary-color;
+    }
+
+    a {
+        padding: 20px 10px;
+        text-transform: uppercase;
+        text-decoration: none !important;
+        color: $black;
+    }
+}
+
+.navbar-brand {
+    margin-right: 32rem !important;
+}

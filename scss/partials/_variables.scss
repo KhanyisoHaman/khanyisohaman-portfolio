@@ -1,0 +1,28 @@
+// Variables - This is where I store my fonts, colors and others
+
+// Saira Extra Condensed
+@font-face {
+    font-family: 'Saira Extra Condensed';
+    src: url(../fonts/Saira_Extra_Condensed/SairaExtraCondensed-Regular.ttf);
+  }
+
+// Source Sans Pro
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url(../fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf);
+}
+
+// Dosis
+@font-face {
+    font-family: 'Dosis';
+    src: url(../fonts/Dosis/Dosis-Regular.ttf);
+}
+
+
+// Colors
+
+$primary-color : #007bff;
+$secondary-color : #ffffffcc;
+$black : #000000;
+$pink: #FF4E50;
+$white : #ffffff;
